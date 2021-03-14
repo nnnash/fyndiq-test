@@ -1,0 +1,151 @@
+{
+  "footer": {
+    "blocks": [
+      {
+        "key": "e8a2fa8ca31b",
+        "linkBlockTag": "fyndiq",
+        "linkBlockTitle": "Kundservice",
+        "links": [
+          {
+            "key": "9b220008d668",
+            "linkTitle": "FAQ",
+            "linkUrl": {
+              "slug": "vanliga-fragor-faq"
+            }
+          },
+          {
+            "key": "d45e5b9b72fb",
+            "linkTitle": "Kontakta oss",
+            "linkUrl": {
+              "slug": "kontakta-oss"
+            }
+          },
+          {
+            "key": "888084a1b209",
+            "linkTitle": "Att handla/betala",
+            "linkUrl": {
+              "slug": "att-handla-betala"
+            }
+          },
+          {
+            "key": "d96af333c47e",
+            "linkTitle": "Återvinning",
+            "linkUrl": {
+              "slug": "atervinning"
+            }
+          },
+          {
+            "key": "6e7fab04d0a3",
+            "linkTitle": "Allmänna villkor",
+            "linkUrl": {
+              "slug": "allmanna-villkor"
+            }
+          },
+          {
+            "key": "ee8734fd8dac",
+            "linkTitle": "Integritetspolicy",
+            "linkUrl": {
+              "slug": "fyndiqs-integritetspolicy"
+            }
+          }
+        ]
+      },
+      {
+        "key": "4fdf3f294e58",
+        "linkBlockTag": "fyndiq",
+        "linkBlockTitle": "Information",
+        "links": [
+          {
+            "key": "4ddb4d9a8106",
+            "linkTitle": "Om Fyndiq",
+            "linkUrl": {
+              "slug": "om-fyndiq"
+            }
+          },
+          {
+            "key": "d05a2e8f37bc",
+            "linkTitle": "Jobba på Fyndiq",
+            "linkUrl": {
+              "slug": "jobba-pa-fyndiq"
+            }
+          },
+          {
+            "key": "35f1fc1b20db",
+            "linkTitle": "Sälj på Fyndiq",
+            "linkUrl": {
+              "slug": "salj-pa-fyndiq"
+            }
+          },
+          {
+            "key": "b64ccea87c96",
+            "linkTitle": "Press",
+            "linkUrl": {
+              "slug": "press"
+            }
+          },
+          {
+            "key": "435edd1c4cfa",
+            "linkTitle": "Säkerhet",
+            "linkUrl": {
+              "slug": "sakerhet-och-sekretess"
+            }
+          },
+          {
+            "key": "2e5a907d09ad",
+            "linkTitle": "Populära kategorier",
+            "linkUrl": {
+              "slug": "populara-kategorier"
+            }
+          },
+          {
+            "key": "556009350259",
+            "linkTitle": "Cookies",
+            "linkUrl": {
+              "slug": "om-cookies-kakor"
+            }
+          }
+        ]
+      },
+      {
+        "key": "6409479f8a05",
+        "linkBlockTag": "campaign",
+        "linkBlockTitle": "I fokus just nu",
+        "links": [
+          {
+            "key": "78ad41adb5ee",
+            "linkTitle": "Fidget toys",
+            "linkUrl": {
+              "slug": "https://fyndiq.se/underhallning/spel-pussel/fidget-toys/"
+            }
+          },
+          {
+            "key": "60c0d8eb9294",
+            "linkTitle": "Munskydd",
+            "linkUrl": {
+              "slug": "https://fyndiq.se/halsa-skonhet/halsa/vard/skydd-stod/munskydd/"
+            }
+          },
+          {
+            "key": "37af0fdbcbec",
+            "linkTitle": "Mors dag",
+            "linkUrl": {
+              "slug": "mors-dag"
+            }
+          },
+          {
+            "key": "8e296968c396",
+            "linkTitle": "Rocka sockorna",
+            "linkUrl": {
+              "slug": "rocka-sockorna"
+            }
+          },
+          {
+            "key": "d5167a03b9d8",
+            "linkTitle": "Aktuella kampanjer",
+            "linkUrl": {}
+          }
+        ]
+      }
+    ]
+  }
+}
